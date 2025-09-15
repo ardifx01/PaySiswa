@@ -38,4 +38,4 @@ Dikembangkan khusus untuk sekolah swasta agar administrasi keuangan lebih transp
 ## 🚀 Cara Instalasi
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/solihulhadi141213/PaySiswa.git
+   git clone https://github.com/ardifx01/PaySiswa.git
